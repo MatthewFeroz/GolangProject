@@ -1,0 +1,47 @@
+{
+    "location": {
+        "name": "London",
+        "region": "City of London, Greater London",
+        "country": "United Kingdom",
+        "lat": 51.5171,
+        "lon": -0.1062,
+        "tz_id": "Europe/London",
+        "localtime_epoch": 1741818438,
+        "localtime": "2025-03-12 22:27"
+    },
+    "current": {
+        "last_updated_epoch": 1741817700,
+        "last_updated": "2025-03-12 22:15",
+        "temp_c": 3.1,
+        "temp_f": 37.6,
+        "is_day": 0,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+            "code": 1003
+        },
+        "wind_mph": 9.6,
+        "wind_kph": 15.5,
+        "wind_degree": 16,
+        "wind_dir": "NNE",
+        "pressure_mb": 1003.0,
+        "pressure_in": 29.62,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 87,
+        "cloud": 75,
+        "feelslike_c": -0.7,
+        "feelslike_f": 30.8,
+        "windchill_c": -0.4,
+        "windchill_f": 31.2,
+        "heatindex_c": 3.3,
+        "heatindex_f": 37.9,
+        "dewpoint_c": 0.9,
+        "dewpoint_f": 33.7,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 13.6,
+        "gust_kph": 22.0
+    }
+}PS C:\Users\Matthew Feroz\Desktop\Software\GolangProject\sun> 
